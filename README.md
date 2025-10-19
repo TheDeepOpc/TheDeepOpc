@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sardor-shoakbarov-996323375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sardor-shoakbarov-996323375" height="30" width="40" /></a>
 <a href="https://instagram.com/callmethedeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callmethedeep" height="30" width="40" /></a>
-  <a href="https://t.me/callmethedeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg](https://pngdownload.io/wp-content/uploads/2025/07/Telegram-Logo-Icon-Messaging-App.webp" alt="callmethedeep" height="30" width="40" /></a>
+  <a href="https://t.me/callmethedeep" target="blank"><img align="center" src="https://i.pinimg.com/736x/0a/50/c1/0a50c1516e434e0108649d2987cfaeb0.jpg" alt="callmethedeep" height="30" width="40" /></a>
 </p>
 <h3 align="left">Certifications :</h3>
 <p align="left" style="display: flex; gap: 50px; align-items: center;">
