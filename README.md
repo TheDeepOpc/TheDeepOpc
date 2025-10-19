@@ -13,6 +13,7 @@
     <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" 
          alt="Badge 2" 
          width="50" 
+         title="Verified Ethical Hacker"
          height="50" 
          style="border-radius: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
   </a>
@@ -20,6 +21,7 @@
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
          alt="Badge 1" 
          width="50" 
+         title="Introduction Cyber Security "
          height="50" 
          style="border-radius: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
   </a>
