@@ -8,16 +8,17 @@
 </p>
 <h3 align="left">Certifications :</h3>
 <p align="left" style="display: flex; gap: 50px; align-items: center;">
-  <a href="https://www.credly.com/badges/89c6646e-df75-4266-9da8-818d1b796226/public_url" target="_blank">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
-         alt="Badge 1" 
+  
+  <a href="https://www.credly.com/badges/777ae72b-49df-4a0d-9a05-c3fd02644734/public_url" target="_blank">
+    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" 
+         alt="Badge 2" 
          width="50" 
          height="50" 
          style="border-radius: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
   </a>
-  <a href="https://www.credly.com/badges/777ae72b-49df-4a0d-9a05-c3fd02644734/public_url" target="_blank">
-    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" 
-         alt="Badge 2" 
+  <a href="https://www.credly.com/badges/89c6646e-df75-4266-9da8-818d1b796226/public_url" target="_blank">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
+         alt="Badge 1" 
          width="50" 
          height="50" 
          style="border-radius: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
