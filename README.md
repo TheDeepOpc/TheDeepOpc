@@ -7,7 +7,7 @@
 <a href="https://instagram.com/callmethedeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callmethedeep" height="30" width="40" /></a>
 </p>
 <h3 align="left">Badges:</h3>
-<p align="left" style="display: flex; gap: 10px; align-items: center;">
+<p align="left" style="display: flex; gap: 30px; align-items: center;">
   <a href="https://www.credly.com/badges/89c6646e-df75-4266-9da8-818d1b796226/public_url" target="_blank">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
          alt="Badge 1" 
