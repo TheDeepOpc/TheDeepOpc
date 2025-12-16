@@ -1,6 +1,6 @@
-<h1 align="center">
+<h1 style="color:green;" align="center">
 The Deep
-</h1>
+</h1><br/>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Specialist;Breaking+Systems%2C+Building+Defenses;The+Quieter+You+Become%2C+The+More+You+Hear" alt="Typing SVG" />
