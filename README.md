@@ -26,137 +26,104 @@
 
 #### 🖥️ Operating Systems
 <p align="left">
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.kali.org/images/kali-logo.svg" alt="kali" width="40" height="40"/>
-</a>
-<a href="https://parrotsec.org/" target="_blank" rel="noreferrer">
-  <img src="https://parrotsec.org/img/logo.png" alt="parrot" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali"/>
+<img src="https://img.shields.io/badge/Parrot_OS-33CCCC?style=for-the-badge&logo=linux&logoColor=white" alt="parrot"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows-server"/>
 </p>
 
 #### 🔍 Reconnaissance & Enumeration
 <p align="left">
-<a href="https://nmap.org/" target="_blank" rel="noreferrer">
-  <img src="https://nmap.org/images/sitelogo.png" alt="nmap" width="80" height="40"/>
-</a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.wireshark.org/assets/images/wireshark-logo.svg" alt="wireshark" width="40" height="40"/>
-</a>
-<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.metasploit.com/includes/images/metasploit-logo.svg" alt="metasploit" width="100" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/>
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" alt="nessus"/>
+<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="netcat"/>
 </p>
 
 #### 🌐 Web Application Testing
 <p align="left">
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" alt="burpsuite" width="40" height="40"/>
-</a>
-<a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.zaproxy.org/img/zap.png" alt="owasp-zap" width="40" height="40"/>
-</a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="burpsuite"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="zap"/>
+<img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="sqlmap"/>
+<img src="https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logo=security&logoColor=white" alt="nikto"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </p>
 
 #### 🔐 Password Attacks & Cracking
 <p align="left">
-<a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer">
-  <img src="https://hashcat.net/favicon.ico" alt="hashcat" width="40" height="40"/>
-</a>
-<a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
-  <img src="https://www.openwall.com/logo.png" alt="john" width="40" height="40"/>
-</a>
-<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="hydra" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hackaday&logoColor=white" alt="hashcat"/>
+<img src="https://img.shields.io/badge/John_The_Ripper-8B0000?style=for-the-badge&logo=lock&logoColor=white" alt="john"/>
+<img src="https://img.shields.io/badge/Hydra-4B0082?style=for-the-badge&logo=atom&logoColor=white" alt="hydra"/>
+<img src="https://img.shields.io/badge/CrackMapExec-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="crackmapexec"/>
+<img src="https://img.shields.io/badge/Medusa-8B008B?style=for-the-badge&logo=security&logoColor=white" alt="medusa"/>
 </p>
 
-#### 🏢 Active Directory & Network
+#### 🏢 Active Directory & Windows
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Windows_Server_logo.svg" alt="active-directory" width="40" height="40"/>
-</a>
-<a href="https://www.samba.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.samba.org/samba/style/2010/grey/logo.png" alt="samba" width="80" height="40"/>
-</a>
-<a href="https://bloodhound.readthedocs.io/" target="_blank" rel="noreferrer">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="bloodhound" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="ad"/>
+<img src="https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge&logo=bloodhound&logoColor=white" alt="bloodhound"/>
+<img src="https://img.shields.io/badge/Mimikatz-FF0000?style=for-the-badge&logo=windows&logoColor=white" alt="mimikatz"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell"/>
+<img src="https://img.shields.io/badge/Impacket-00ADD8?style=for-the-badge&logo=python&logoColor=white" alt="impacket"/>
+<img src="https://img.shields.io/badge/Responder-8B0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="responder"/>
+</p>
+
+#### 📡 Network & Wireless
+<p align="left">
+<img src="https://img.shields.io/badge/Aircrack--ng-000080?style=for-the-badge&logo=wifi&logoColor=white" alt="aircrack"/>
+<img src="https://img.shields.io/badge/Ettercap-8B4513?style=for-the-badge&logo=ethernet&logoColor=white" alt="ettercap"/>
+<img src="https://img.shields.io/badge/Tcpdump-4682B4?style=for-the-badge&logo=wireshark&logoColor=white" alt="tcpdump"/>
+<img src="https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="scapy"/>
+</p>
+
+#### 🕵️ Exploitation & Post-Exploitation
+<p align="left">
+<img src="https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="cobalt"/>
+<img src="https://img.shields.io/badge/Empire-8B0000?style=for-the-badge&logo=powershell&logoColor=white" alt="empire"/>
+<img src="https://img.shields.io/badge/Meterpreter-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="meterpreter"/>
+<img src="https://img.shields.io/badge/SearchSploit-000000?style=for-the-badge&logo=exploit-database&logoColor=white" alt="searchsploit"/>
 </p>
 
 #### 💻 Programming & Scripting
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-</a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
 </p>
 
 #### 🗃️ Databases
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://redis.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql"/>
 </p>
 
-#### ☁️ Cloud & Infrastructure
+#### ☁️ Cloud & Containers
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
 </p>
 
-#### 🔧 Other Tools
+#### 🔧 Development & Tools
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
-</a>
-<a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="40" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="virtualbox"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="vmware"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim"/>
 </p>
 
 ---
@@ -164,30 +131,27 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedeepopc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thedeepopc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedeepopc&theme=dark&hide_border=true&background=0D1117&stroke=00F700&ring=00F700&fire=00F700&currStreakLabel=00F700" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedeepopc&theme=radical&hide_border=true&background=0D1117&stroke=00F700&ring=00F700&fire=00F700&currStreakLabel=00F700" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedeepopc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedeepopc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 CTF Profiles & Certifications
-```
-┌──(thedeep㉿kali)-[~/certifications]
-└─$ ls -la
-```
 
-- 🎯 [Hack The Box](https://www.hackthebox.eu/) - Active Player
-- 🔴 [TryHackMe](https://tryhackme.com/) - Room Completionist
-- 🚩 CTF Team Member
-- 📜 OSCP - In Progress
-- 📜 eJPT - Planning
+<p align="left">
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="htb"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="thm"/>
+<img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="portswigger"/>
+<img src="https://img.shields.io/badge/OSCP-In_Progress-FFA500?style=for-the-badge&logo=offensive-security&logoColor=white" alt="oscp"/>
+</p>
 
 ---
 
@@ -195,37 +159,56 @@
 
 <p align="left">
 <a href="https://twitter.com/yourhandle" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
 </a>
 <a href="https://linkedin.com/in/yourprofile" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://discord.gg/yourdiscord" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thedeepopc&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Hacking!&fontSize=30&fontAlignY=70&animation=twinkling" />
+  <img src="https://komarev.com/ghpvc/?username=thedeepopc&label=Profile%20views&color=00F700&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-### 💡 Quote
+### 💡 Current Focus
 ```python
-while True:
-    print("Hack the planet, but ethically! 🎯")
-    learn()
-    practice()
-    share_knowledge()
+#!/usr/bin/env python3
+
+class PentesterLife:
+    def __init__(self):
+        self.current_focus = [
+            "🎯 OSCP Preparation",
+            "🔴 Advanced AD Exploitation",
+            "🌐 Web Application Pentesting",
+            "🏴‍☠️ CTF Challenges Daily"
+        ]
+    
+    def hack_the_planet(self):
+        while True:
+            self.learn()
+            self.practice()
+            self.break_things_ethically()
+            self.document_findings()
+            
+if __name__ == "__main__":
+    hacker = PentesterLife()
+    hacker.hack_the_planet()
 ```
 
 <p align="center">
-  <i>"The quieter you become, the more you are able to hear." - Kali Linux</i>
+  <i>"In God we trust, all others we audit." - NSA</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Happy%20Hacking!&fontSize=30&fontColor=00F700&animation=twinkling" />
 </p>
