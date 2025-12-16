@@ -2,19 +2,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=500&lines=THE+DEEP;Penetration+Tester;Red+Team+Operator" alt="Typing SVG" />
 </h1>
 
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Specialist;Breaking+Systems%2C+Building+Defenses;The+Quieter+You+Become%2C+The+More+You+Hear" alt="Typing SVG" />
+</h3>
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║   ████████╗██╗  ██╗███████╗    ██████╗ ███████╗███████╗██████╗            ║
-║   ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔════╝██╔════╝██╔══██╗           ║
-║      ██║   ███████║█████╗      ██║  ██║█████╗  █████╗  ██████╔╝           ║
-║      ██║   ██╔══██║██╔══╝      ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝            ║
-║      ██║   ██║  ██║███████╗    ██████╔╝███████╗███████╗██║                ║
-║      ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚══════╝╚══════╝╚═╝                ║
+║   ████████╗██╗  ██╗███████╗    ██████╗ ███████╗███████╗██████╗          ║
+║   ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔════╝██╔════╝██╔══██╗         ║
+║      ██║   ███████║█████╗      ██║  ██║█████╗  █████╗  ██████╔╝         ║
+║      ██║   ██╔══██║██╔══╝      ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝          ║
+║      ██║   ██║  ██║███████╗    ██████╔╝███████╗███████╗██║              ║
+║      ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚══════╝╚══════╝╚═╝              ║
 ║                                                                           ║
-║                  "Deep Mind. Deep Security."                              ║
+║                  "In God we trust, all others we test"                   ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -32,17 +34,34 @@
 ```bash
 ┌──(thedeep㉿offensive-sec)-[~]
 └─$ cat profile.txt
+
+[+] Role: Senior Offensive Security Specialist
+[+] Expertise: Penetration Testing | Red Team Operations
+[+] Focus: Active Directory | Web AppSec | Network Infrastructure
+[+] Status: OSCP Track | Continuous Research
 ```
 
-Senior Offensive Security Specialist with expertise in penetration testing, vulnerability assessment, and red team operations. Focused on Active Directory exploitation, web application security, and network infrastructure testing.
+**Specializations:**
+```
+├── Advanced Penetration Testing
+├── Active Directory Exploitation & Lateral Movement
+├── Web Application Security (OWASP Top 10+)
+├── Network Infrastructure Assessment
+├── Post-Exploitation & Privilege Escalation
+├── Custom Exploit Development
+└── Security Tool Development & Automation
+```
 
-**Core Competencies:**
-- Advanced Penetration Testing & Exploitation
-- Active Directory Security Assessment
-- Web Application Security Testing
-- Network Security & Infrastructure Hardening
-- Post-Exploitation & Privilege Escalation
-- Security Research & Tool Development
+**Engagement Types:**
+```
+[✓] External Network Penetration Testing
+[✓] Internal Network Security Assessment
+[✓] Web Application Penetration Testing
+[✓] Active Directory Security Audit
+[✓] Wireless Network Security Testing
+[✓] Social Engineering Assessments
+[✓] Red Team Operations
+```
 
 ---
 
@@ -156,6 +175,11 @@ Senior Offensive Security Specialist with expertise in penetration testing, vuln
 
 ### GITHUB STATISTICS
 
+```bash
+┌──(thedeep㉿offensive-sec)-[~]
+└─$ git log --author="thedeep" --oneline --graph --all
+```
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thedeepopc&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" alt="GitHub Stats" />
 </p>
@@ -164,9 +188,20 @@ Senior Offensive Security Specialist with expertise in penetration testing, vuln
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedeepopc&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41" alt="GitHub Streak" />
 </p>
 
+```bash
+┌──(thedeep㉿offensive-sec)-[~]
+└─$ cat achievements.txt
+```
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thedeepopc&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
+
+```bash
+[✓] Commits: Consistent contribution to security tools
+[✓] Repositories: Exploit development & automation scripts
+[✓] Community: Knowledge sharing & open-source contributions
+```
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -175,6 +210,17 @@ Senior Offensive Security Specialist with expertise in penetration testing, vuln
 ---
 
 ### CONNECT
+
+```bash
+┌──(thedeep㉿offensive-sec)-[~]
+└─$ cat contact.sh
+
+#!/bin/bash
+# Secure Communication Channels
+
+echo "[+] Initializing secure connection..."
+echo "[+] Available communication protocols:"
+```
 
 <p align="center">
 <a href="https://linkedin.com/in/sardor-thedeep" target="_blank">
@@ -189,6 +235,20 @@ Senior Offensive Security Specialist with expertise in penetration testing, vuln
 <a href="mailto:sardordev02@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" />
 </a>
+</p>
+
+```bash
+[✓] LinkedIn    --> Professional Network
+[✓] Instagram   --> Personal Updates
+[✓] Telegram    --> Quick Communication
+[✓] Email       --> Business Inquiries
+
+┌──(thedeep㉿offensive-sec)-[~]
+└─$ echo "Connection established. Waiting for handshake..."
+```
+
+**CTF Profiles:**
+<p align="center">
 <a href="https://hackthebox.eu/profile/yourid" target="_blank">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=000000" />
 </a>
@@ -205,34 +265,74 @@ Senior Offensive Security Specialist with expertise in penetration testing, vuln
 
 ### CURRENT FOCUS
 
-**Active Projects & Learning Path:**
+```bash
+┌──(thedeep㉿offensive-sec)-[~/projects]
+└─$ ls -la current_operations/
 
-- 🎯 **OSCP Certification** - Preparing for Offensive Security Certified Professional
-- 🔴 **Advanced Active Directory** - Domain exploitation and lateral movement techniques
-- 🌐 **Web Application Security** - OWASP Top 10 and advanced injection techniques
-- 🏴‍☠️ **Daily CTF Challenges** - Hack The Box, TryHackMe, and competitive platforms
-- 🐛 **Bug Bounty Programs** - Real-world vulnerability research and disclosure
-- 🔧 **Custom Tool Development** - Building automation scripts for penetration testing
-- 📚 **Security Research** - Staying current with latest vulnerabilities and exploits
+drwxr-xr-x  oscp_preparation/
+├── [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75% - Advanced Buffer Overflow
+├── [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░] 85% - Active Directory Attacks
+└── [▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░] 65% - Web Application Exploitation
 
-**Methodology:**
+drwxr-xr-x  active_directory/
+├── Kerberoasting Techniques
+├── NTLM Relay Attacks
+├── Golden/Silver Ticket Attacks
+├── BloodHound Graph Analysis
+└── Domain Privilege Escalation
+
+drwxr-xr-x  web_application_security/
+├── Advanced SQLi (Time-based, Boolean, Error-based)
+├── Server-Side Template Injection (SSTI)
+├── XXE & XML External Entity Attacks
+├── Insecure Deserialization Exploits
+└── JWT Token Manipulation
+
+drwxr-xr-x  research_and_development/
+├── Custom Exploit Development
+├── Automated Reconnaissance Tools
+├── Post-Exploitation Frameworks
+└── Evasion Techniques Research
+
+drwxr-xr-x  platforms/
+├── Hack The Box: Active Machines
+├── TryHackMe: Advanced Paths
+├── Bug Bounty Programs
+└── CTF Competitions
 ```
-Reconnaissance → Enumeration → Exploitation → Post-Exploitation → Reporting
+
+**Penetration Testing Methodology:**
+```
+[1] Reconnaissance ──► [2] Enumeration ──► [3] Vulnerability Analysis
+                                                      │
+[6] Reporting ◄── [5] Post-Exploitation ◄── [4] Exploitation
 ```
 
 ---
 
+```bash
+┌──(thedeep㉿offensive-sec)-[~]
+└─$ echo "Remember: With great power comes great responsibility"
+
+[!] All security operations conducted ethically and legally
+[!] Authorized penetration testing only
+[!] Responsible disclosure policy followed
+```
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Testing;Ethical+Hacking+%7C+Professional+Security;Break+It%2C+Secure+It%2C+Document+It" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Testing;Break+It.+Secure+It.+Document+It.;Ethical+Hacking+%7C+Professional+Security" alt="Typing SVG" />
 </p>
 
 ---
-
-<p align="center">
-  <sub>All security testing conducted ethically and within legal boundaries</sub>
-</p>
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
 </p>
+
+```bash
+┌──(thedeep㉿offensive-sec)-[~]
+└─$ exit
+[+] Session terminated. Stay secure.
+```
