@@ -2,21 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=500&lines=THE+DEEP;Penetration+Tester;Red+Team+Operator" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Specialist;Breaking+Systems%2C+Building+Defenses;The+Quieter+You+Become%2C+The+More+You+Hear" alt="Typing SVG" />
-</h3>
+
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║   ████████╗██╗  ██╗███████╗    ██████╗ ███████╗███████╗██████╗          ║
-║   ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔════╝██╔════╝██╔══██╗         ║
-║      ██║   ███████║█████╗      ██║  ██║█████╗  █████╗  ██████╔╝         ║
-║      ██║   ██╔══██║██╔══╝      ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝          ║
-║      ██║   ██║  ██║███████╗    ██████╔╝███████╗███████╗██║              ║
-║      ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚══════╝╚══════╝╚═╝              ║
+║   ████████╗██╗  ██╗███████╗    ██████╗ ███████╗███████╗██████╗            ║
+║   ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔════╝██╔════╝██╔══██╗           ║
+║      ██║   ███████║█████╗      ██║  ██║█████╗  █████╗  ██████╔╝           ║
+║      ██║   ██╔══██║██╔══╝      ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝            ║
+║      ██║   ██║  ██║███████╗    ██████╔╝███████╗███████╗██║                ║
+║      ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚══════╝╚══════╝╚═╝                ║
 ║                                                                           ║
-║                  "In God we trust, all others we test"                   ║
+║                  "Deep Mind. Deep Security."                              ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
