@@ -247,15 +247,6 @@ echo "[+] Available communication protocols:"
 └─$ echo "Connection established. Waiting for handshake..."
 ```
 
-**CTF Profiles:**
-<p align="center">
-<a href="https://hackthebox.eu/profile/yourid" target="_blank">
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=000000" />
-</a>
-<a href="https://tryhackme.com/p/yourusername" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00FF41&labelColor=000000" />
-</a>
-</p>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -325,11 +316,6 @@ drwxr-xr-x  platforms/
 
 ---
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-</p>
 
 ```bash
 ┌──(thedeep㉿offensive-sec)-[~]
