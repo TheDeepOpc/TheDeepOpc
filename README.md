@@ -1,5 +1,5 @@
 <h1 align="center">
-The DeeP
+The Deep
 </h1>
 
 <h3 align="center">
