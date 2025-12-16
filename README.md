@@ -1,5 +1,25 @@
-<h1 align="center">THE DEEP</h1>
-<h3 align="center">Offensive Security Specialist | Penetration Tester</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=500&lines=THE+DEEP;Penetration+Tester;Red+Team+Operator" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Specialist;Breaking+Systems%2C+Building+Defenses;The+Quieter+You+Become%2C+The+More+You+Hear" alt="Typing SVG" />
+</h3>
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ████████╗██╗  ██╗███████╗    ██████╗ ███████╗███████╗██████╗          ║
+║   ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔════╝██╔════╝██╔══██╗         ║
+║      ██║   ███████║█████╗      ██║  ██║█████╗  █████╗  ██████╔╝         ║
+║      ██║   ██╔══██║██╔══╝      ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝          ║
+║      ██║   ██║  ██║███████╗    ██████╔╝███████╗███████╗██║              ║
+║      ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚══════╝╚══════╝╚═╝              ║
+║                                                                           ║
+║                  "In God we trust, all others we test"                   ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000" />
@@ -29,6 +49,10 @@ Senior Offensive Security Specialist with expertise in penetration testing, vuln
 ---
 
 ### TECHNICAL ARSENAL
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 #### Operating Systems
 <p align="left">
@@ -126,6 +150,10 @@ Senior Offensive Security Specialist with expertise in penetration testing, vuln
 <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=00FF41&labelColor=000000" />
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 ---
 
 ### GITHUB STATISTICS
@@ -140,6 +168,10 @@ Senior Offensive Security Specialist with expertise in penetration testing, vuln
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thedeepopc&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 ---
@@ -167,73 +199,40 @@ Senior Offensive Security Specialist with expertise in penetration testing, vuln
 </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
 ---
 
 ### CURRENT FOCUS
 
-```python
-#!/usr/bin/env python3
-"""
-Offensive Security Operations Framework
-Author: The Deep
-"""
+**Active Projects & Learning Path:**
 
-class OffensiveSecurityOps:
-    def __init__(self):
-        self.role = "Senior Penetration Tester"
-        self.specialization = [
-            "Active Directory Exploitation",
-            "Web Application Security",
-            "Network Penetration Testing",
-            "Post-Exploitation Techniques",
-            "Custom Tool Development"
-        ]
-        
-    def execute(self):
-        """Main operational loop"""
-        phases = [
-            self.reconnaissance,
-            self.vulnerability_assessment,
-            self.exploitation,
-            self.post_exploitation,
-            self.reporting
-        ]
-        
-        for phase in phases:
-            phase()
-            
-    def reconnaissance(self):
-        """Information gathering and enumeration"""
-        pass
-        
-    def vulnerability_assessment(self):
-        """Identify and validate vulnerabilities"""
-        pass
-        
-    def exploitation(self):
-        """Controlled exploitation of vulnerabilities"""
-        pass
-        
-    def post_exploitation(self):
-        """Privilege escalation and persistence"""
-        pass
-        
-    def reporting(self):
-        """Comprehensive documentation and remediation guidance"""
-        pass
+- 🎯 **OSCP Certification** - Preparing for Offensive Security Certified Professional
+- 🔴 **Advanced Active Directory** - Domain exploitation and lateral movement techniques
+- 🌐 **Web Application Security** - OWASP Top 10 and advanced injection techniques
+- 🏴‍☠️ **Daily CTF Challenges** - Hack The Box, TryHackMe, and competitive platforms
+- 🐛 **Bug Bounty Programs** - Real-world vulnerability research and disclosure
+- 🔧 **Custom Tool Development** - Building automation scripts for penetration testing
+- 📚 **Security Research** - Staying current with latest vulnerabilities and exploits
 
-if __name__ == "__main__":
-    operator = OffensiveSecurityOps()
-    operator.execute()
+**Methodology:**
+```
+Reconnaissance → Enumeration → Exploitation → Post-Exploitation → Reporting
 ```
 
 ---
 
 <p align="center">
-  <sub>Professional cybersecurity operations conducted ethically and within legal boundaries.</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Testing;Ethical+Hacking+%7C+Professional+Security;Break+It%2C+Secure+It%2C+Document+It" alt="Typing SVG" />
 </p>
 
 ---
+
+<p align="center">
+  <sub>All security testing conducted ethically and within legal boundaries</sub>
+</p>
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
