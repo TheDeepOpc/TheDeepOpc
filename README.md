@@ -6,21 +6,6 @@ The Deep
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Specialist;Breaking+Systems%2C+Building+Defenses;The+Quieter+You+Become%2C+The+More+You+Hear" alt="Typing SVG" />
 </h3>
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║       ████████╗██╗  ██╗███████╗    ██████╗ ███████╗███████╗██████╗        ║
-║       ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔════╝██╔════╝██╔══██╗       ║
-║          ██║   ███████║█████╗      ██║  ██║█████╗  █████╗  ██████╔╝       ║
-║          ██║   ██╔══██║██╔══╝      ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝        ║
-║          ██║   ██║  ██║███████╗    ██████╔╝███████╗███████╗██║            ║
-║          ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚══════╝╚══════╝╚═╝            ║
-║                                                                           ║
-║                       "Deep Mind. Deep Security."                         ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/MODE-HACK_THE_PLANET-00FF41?style=for-the-badge&labelColor=000000" />
