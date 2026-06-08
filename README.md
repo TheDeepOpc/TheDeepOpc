@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerOne-BUG_BOUNTY-FF0000?style=for-the-badge&labelColor=0D1117&logo=hackerone&logoColor=FF0000" />
   <img src="https://img.shields.io/badge/thedeep.uz-PORTFOLIO-00FF88?style=for-the-badge&labelColor=0D1117&logo=globe&logoColor=00FF88" />
 </p>
 
