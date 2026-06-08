@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-RED%2FBLUE_HYBRID-FF6B35?style=for-the-badge&labelColor=0D1117&logo=shield&logoColor=FF6B35" />
   <img src="https://img.shields.io/badge/FOCUS-INCIDENT_RESPONSE-00D4FF?style=for-the-badge&labelColor=0D1117&logo=target&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/TRACK-OSCP_IN_PROGRESS-7B2FFF?style=for-the-badge&labelColor=0D1117&logo=checkmarx&logoColor=7B2FFF" />
 </p>
 
 <p align="center">
