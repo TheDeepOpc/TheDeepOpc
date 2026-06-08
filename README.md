@@ -1,195 +1,205 @@
-<h1 style="color:green;" align="center">
-The Deep
-</h1><br/>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Offensive+Security+Specialist;Breaking+Systems%2C+Building+Defenses;The+Quieter+You+Become%2C+The+More+You+Hear" alt="Typing SVG" />
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=TheDEEP+%7C+Sardor;Web+Pentester+%26+IR+Specialist;Red+meets+Blue.+Attack+%2B+Defend.;thedeep.uz" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MODE-HACK_THE_PLANET-00FF41?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ROLE-RED%2FBLUE_HYBRID-FF6B35?style=for-the-badge&labelColor=0D1117&logo=shield&logoColor=FF6B35" />
+  <img src="https://img.shields.io/badge/FOCUS-INCIDENT_RESPONSE-00D4FF?style=for-the-badge&labelColor=0D1117&logo=target&logoColor=00D4FF" />
+  <img src="https://img.shields.io/badge/TRACK-OSCP_IN_PROGRESS-7B2FFF?style=for-the-badge&labelColor=0D1117&logo=checkmarx&logoColor=7B2FFF" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerOne-BUG_BOUNTY-FF0000?style=for-the-badge&labelColor=0D1117&logo=hackerone&logoColor=FF0000" />
+  <img src="https://img.shields.io/badge/thedeep.uz-PORTFOLIO-00FF88?style=for-the-badge&labelColor=0D1117&logo=globe&logoColor=00FF88" />
 </p>
 
 ---
 
-### ABOUT
+### WHOAMI
 
 ```bash
-┌──(thedeep㉿offensive-sec)-[~]
-└─$ cat profile.txt
-
-[+] Role: Senior Offensive Security Specialist
-[+] Expertise: Penetration Testing | Red Team Operations
-[+] Focus: Active Directory | Web AppSec | Network Infrastructure
-[+] Status: OSCP Track | Continuous Research
+┌──(thedeep㉿red-blue-ops)-[~]
+└─$ cat profile.json
 ```
 
-**Specializations:**
-```
-├── Advanced Penetration Testing
-├── Active Directory Exploitation & Lateral Movement
-├── Web Application Security (OWASP Top 10+)
-├── Network Infrastructure Assessment
-├── Post-Exploitation & Privilege Escalation
-├── Custom Exploit Development
-└── Security Tool Development & Automation
-```
-
-**Engagement Types:**
-```
-[✓] External Network Penetration Testing
-[✓] Internal Network Security Assessment
-[✓] Web Application Penetration Testing
-[✓] Active Directory Security Audit
-[✓] Wireless Network Security Testing
-[✓] Social Engineering Assessments
-[✓] Red Team Operations
+```json
+{
+  "handle"     : "TheDEEP / Sardor Shoakbarov",
+  "role"       : "Penetration Testing || Incident Response ",
+  "current"    : [
+    "Web Application Penetration Testing",
+    "Incident Response & Digital Forensics",
+    "SIEM Engineering (Splunk / Wazuh)",
+    "LLM Security Research",
+  ],
+  "building"   : ["NullSight Security Platform", "DeepSec-L2 AI Pentest Framework","DeepSec AI WhiteBox Framework"],
+  "location"   : "Uzbekistan",
+  "site"       : "https://thedeep.uz"
+}
 ```
 
 ---
 
-### TECHNICAL ARSENAL
+### ⚔️ RED SIDE — Offensive Capabilities
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+```
+Web Application Pentesting
+├── OWASP Top 10+ (SQLi, XSS, SSTI, XXE, IDOR, SSRF)
+├── JWT Manipulation & Auth Bypass
+├── Insecure Deserialization
+├── API Security Testing (REST/GraphQL)
+└── Custom Exploit Development
+
+Network & Infrastructure
+├── External / Internal Network Assessments
+├── Active Directory — Kerberoasting, NTLM Relay, Golden Ticket
+├── Lateral Movement & Privilege Escalation
+└── Post-Exploitation Frameworks (Metasploit, Empire)
+
+Bug Bounty Research
+├── HackerOne Active Hunter
+├── CVE Validation & PoC Development
+└── Responsible Disclosure
+```
+
+#### Offensive Tools
+<p align="left">
+<img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF88&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logo=hackaday&logoColor=00D4FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Impacket-00ADD8?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Responder-8B0000?style=for-the-badge&logo=hackaday&logoColor=FF6B35&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Mimikatz-FF0000?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Hashcat-6A0DAD?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=0D1117" />
+</p>
+
+---
+
+###  BLUE SIDE — Defensive & IR Capabilities
+
+```
+Incident Response
+├── IR Lifecycle — Preparation → Detection → Containment → Eradication → Recovery
+├── Threat Hunting & Anomaly Detection
+├── Root Cause Analysis (RCA)
+└── Post-Incident Reporting
+
+SIEM & Log Analysis
+├── Splunk — SPL queries, dashboards, alerts
+├── Wazuh — Agent deployment, custom rules, FIM
+├── ELK Stack — Elasticsearch, Logstash, Kibana
+└── Log correlation, IOC hunting, threat detection
+
+Digital Forensics
+├── Memory Forensics — Volatility Framework
+├── Disk Forensics — Autopsy, FTK
+├── Network Forensics — Wireshark, Zeek, NetworkMiner
+└── Timeline Analysis & Evidence Preservation
+
+Threat Intelligence & Detection
+├── MITRE ATT&CK Mapping
+├── IOC Collection & Enrichment
+├── YARA Rule Development
+└── Sigma Rule Writing
+
+Case Management
+├── TheHive — Case creation, alert triage, task workflow
+├── Cortex — Automated analyzer integrations
+└── MISP — Threat sharing & IOC platform
+```
+
+#### Blue Team Tools
+<p align="left">
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00D4FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Wazuh-3C6EB4?style=for-the-badge&logo=wazuh&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TheHive-FF9800?style=for-the-badge&logo=apache&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Volatility-4A90D9?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Zeek-E55B13?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MISP-3D4F7C?style=for-the-badge&logo=data&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Autopsy-555555?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" />
+</p>
+
+---
+
+### 🤖 AI/ML in Security
+
+```
+LLM Security Research
+├── Prompt Injection & Jailbreak Analysis
+├── AI-Powered Threat Detection
+└── LLM-Assisted Penetration Testing
+
+Projects
+├── NullSight    — Security Intelligence Platform (Node.js + AI)
+└── DeepSec-L2   — AI-driven Pentest Framework (Python async, BitNet.cpp)
+```
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LLM_Security-FF6B35?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Machine_Learning-7B2FFF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
+</p>
+
+---
+
+### TECH STACK
+
+#### Languages
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0D1117" />
 </p>
 
 #### Operating Systems
 <p align="left">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Parrot_OS-33CCCC?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" />
-</p>
-
-#### Reconnaissance & Enumeration
-<p align="left">
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Masscan-000000?style=for-the-badge&logo=hackaday&logoColor=00FF41&labelColor=000000" />
-</p>
-
-#### Web Application Testing
-<p align="left">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logo=security&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Wfuzz-000000?style=for-the-badge&logo=hackaday&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Ffuf-000000?style=for-the-badge&logo=hackaday&logoColor=00FF41&labelColor=000000" />
-</p>
-
-#### Password Attacks & Cracking
-<p align="left">
-<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hackaday&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/John_The_Ripper-8B0000?style=for-the-badge&logo=lock&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Hydra-4B0082?style=for-the-badge&logo=atom&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/CrackMapExec-FF0000?style=for-the-badge&logo=hackaday&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Medusa-8B008B?style=for-the-badge&logo=security&logoColor=00FF41&labelColor=000000" />
-</p>
-
-#### Active Directory & Windows Exploitation
-<p align="left">
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge&logo=bloodhound&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Mimikatz-FF0000?style=for-the-badge&logo=windows&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Impacket-00ADD8?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Responder-8B0000?style=for-the-badge&logo=hackaday&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Rubeus-000000?style=for-the-badge&logo=windows&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/SharpHound-DC143C?style=for-the-badge&logo=windows&logoColor=00FF41&labelColor=000000" />
-</p>
-
-#### Network & Wireless Security
-<p align="left">
-<img src="https://img.shields.io/badge/Aircrack--ng-000080?style=for-the-badge&logo=wifi&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Ettercap-8B4513?style=for-the-badge&logo=ethernet&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Tcpdump-4682B4?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Bettercap-000000?style=for-the-badge&logo=hackaday&logoColor=00FF41&labelColor=000000" />
-</p>
-
-#### Exploitation & Post-Exploitation
-<p align="left">
-<img src="https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logo=hackaday&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Empire-8B0000?style=for-the-badge&logo=powershell&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Meterpreter-2596CD?style=for-the-badge&logo=metasploit&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/SearchSploit-000000?style=for-the-badge&logo=exploit-database&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/MSFVenom-2596CD?style=for-the-badge&logo=metasploit&logoColor=00FF41&labelColor=000000" />
-</p>
-
-#### Programming & Scripting
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=00FF41&labelColor=000000" />
-</p>
-
-#### Databases
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=00FF41&labelColor=000000" />
-</p>
-
-#### Development & Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=00FF41&labelColor=000000" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Parrot_OS-33CCCC?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" />
 </p>
 
 ---
 
-### GITHUB STATISTICS
+### METHODOLOGY
+
+```
+RED  ──►  Recon → Enum → Exploit → Post-Exploit → Report
+                                        │
+BLUE ◄──  Detect → Triage → Contain → Eradicate → Recover → Lessons Learned
+```
+
+**The purple team mindset:** Every attack simulated becomes a detection rule written.
+
+---
+
+### GITHUB STATS
 
 ```bash
-┌──(thedeep㉿offensive-sec)-[~]
-└─$ git log --author="thedeep" --oneline --graph --all
+┌──(thedeep㉿red-blue-ops)-[~]
+└─$ git log --author="thedeepopc" --oneline --graph --all
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedeepopc&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thedeepopc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=C9D1D9&border_color=00D4FF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedeepopc&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedeepopc&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </p>
 
-```bash
-┌──(thedeep㉿offensive-sec)-[~]
-└─$ cat achievements.txt
-```
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thedeepopc&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
-```bash
-[✓] Commits: Consistent contribution to security tools
-[✓] Repositories: Exploit development & automation scripts
-[✓] Community: Knowledge sharing & open-source contributions
-```
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=thedeepopc&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -197,113 +207,39 @@ The Deep
 ### CONNECT
 
 ```bash
-┌──(thedeep㉿offensive-sec)-[~]
+┌──(thedeep㉿red-blue-ops)-[~]
 └─$ cat contact.sh
-
-#!/bin/bash
-# Secure Communication Channels
-
-echo "[+] Initializing secure connection..."
-echo "[+] Available communication protocols:"
 ```
 
 <p align="center">
-<a href="https://linkedin.com/in/sardor-thedeep" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" />
+<a href="https://thedeep.uz" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_thedeep.uz-PORTFOLIO-00FF88?style=for-the-badge&labelColor=0D1117" />
 </a>
-<a href="https://instagram.com/callmethedeep" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=000000" />
+<a href="https://linkedin.com/in/sardor-thedeep" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://t.me/callmethedeep" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://hackerone.com/thedeep" target="_blank">
+  <img src="https://img.shields.io/badge/HackerOne-FF0000?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="mailto:sardordev02@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
 </p>
 
-```bash
-[✓] LinkedIn    --> Professional Network
-[✓] Instagram   --> Personal Updates
-[✓] Telegram    --> Quick Communication
-[✓] Email       --> Business Inquiries
-
-┌──(thedeep㉿offensive-sec)-[~]
-└─$ echo "Connection established. Waiting for handshake..."
-```
-
+---
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Attack+to+understand.+Defend+to+protect.;Every+vulnerability+found+is+a+detection+rule+born.;Red+%2B+Blue+%3D+Purple+Team+Mindset.;thedeep.uz" alt="Footer" />
 </p>
 
----
-
-### CURRENT FOCUS
-
 ```bash
-┌──(thedeep㉿offensive-sec)-[~/projects]
-└─$ ls -la current_operations/
-
-drwxr-xr-x  oscp_preparation/
-├── [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75% - Advanced Buffer Overflow
-├── [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░] 85% - Active Directory Attacks
-└── [▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░] 65% - Web Application Exploitation
-
-drwxr-xr-x  active_directory/
-├── Kerberoasting Techniques
-├── NTLM Relay Attacks
-├── Golden/Silver Ticket Attacks
-├── BloodHound Graph Analysis
-└── Domain Privilege Escalation
-
-drwxr-xr-x  web_application_security/
-├── Advanced SQLi (Time-based, Boolean, Error-based)
-├── Server-Side Template Injection (SSTI)
-├── XXE & XML External Entity Attacks
-├── Insecure Deserialization Exploits
-└── JWT Token Manipulation
-
-drwxr-xr-x  research_and_development/
-├── Custom Exploit Development
-├── Automated Reconnaissance Tools
-├── Post-Exploitation Frameworks
-└── Evasion Techniques Research
-
-drwxr-xr-x  platforms/
-├── Hack The Box: Active Machines
-├── TryHackMe: Advanced Paths
-├── Bug Bounty Programs
-└── CTF Competitions
-```
-
-**Penetration Testing Methodology:**
-```
-[1] Reconnaissance ──► [2] Enumeration ──► [3] Vulnerability Analysis
-                                                      │
-[6] Reporting ◄── [5] Post-Exploitation ◄── [4] Exploitation
-```
-
----
-
-```bash
-┌──(thedeep㉿offensive-sec)-[~]
-└─$ echo "Remember: With great power comes great responsibility"
-
-[!] All security operations conducted ethically and legally
-[!] Authorized penetration testing only
-[!] Responsible disclosure policy followed
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Testing;Break+It.+Secure+It.+Document+It.;Ethical+Hacking+%7C+Professional+Security" alt="Typing SVG" />
-</p>
-
----
-
-
-```bash
-┌──(thedeep㉿offensive-sec)-[~]
+┌──(thedeep㉿red-blue-ops)-[~]
+└─$ echo "All operations conducted ethically and with authorization."
+[✓] Authorized penetration testing only
+[✓] Responsible disclosure followed
+[✓] Blue team defenses built from red team knowledge
 └─$ exit
-[+] Session terminated. Stay secure.
 ```
