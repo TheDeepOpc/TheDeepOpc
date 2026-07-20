@@ -1,15 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=TheDEEP+%7C+Sardor;Web+Pentester+%26+IR+Specialist;Red+meets+Blue.+Attack+%2B+Defend.;thedeep.uz" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ROLE-RED%2FBLUE_HYBRID-FF3333?style=for-the-badge&labelColor=0D0000&logo=shield&logoColor=FF3333" />
-  <img src="https://img.shields.io/badge/FOCUS-INCIDENT_RESPONSE-FF5555?style=for-the-badge&labelColor=0D0000&logo=target&logoColor=FF5555" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/thedeep.uz-PORTFOLIO-FF0000?style=for-the-badge&labelColor=0D0000&logo=globe&logoColor=FF0000" />
-</p>
 
 
 <pre>
@@ -71,6 +59,18 @@
   
 </pre>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=TheDEEP+%7C+Sardor;Web+Pentester+%26+IR+Specialist;Red+meets+Blue.+Attack+%2B+Defend.;thedeep.uz" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-RED%2FBLUE_HYBRID-FF3333?style=for-the-badge&labelColor=0D0000&logo=shield&logoColor=FF3333" />
+  <img src="https://img.shields.io/badge/FOCUS-INCIDENT_RESPONSE-FF5555?style=for-the-badge&labelColor=0D0000&logo=target&logoColor=FF5555" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/thedeep.uz-PORTFOLIO-FF0000?style=for-the-badge&labelColor=0D0000&logo=globe&logoColor=FF0000" />
+</p>
 
 ### WHOAMI
 
